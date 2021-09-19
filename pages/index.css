@@ -17,7 +17,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-el/intro__list-el.css);
-@import url(../blocks/intro/__list-el/_font-weight/intro__list-el_font-weight_normal.css);
+@import url(../blocks/intro/__list-el/_text/intro__list-el_text_normal.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/places/places.css);
