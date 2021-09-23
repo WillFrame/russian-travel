@@ -10,4 +10,4 @@
 ##### Верстка по проекту представленному в Figma
 ##### Публикация проекта на сервере gh pages
 
-## Ссылка на проект размещена на сервере github - https://willframe.github.io/russian-travel/
+## Ссылка на проект - https://willframe.github.io/russian-travel/
