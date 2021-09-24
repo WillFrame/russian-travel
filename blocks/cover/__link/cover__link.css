@@ -5,7 +5,3 @@
     flex-direction: column;
     justify-content: center;
 }
-
-.cover__link:hover .cover__overlay {
-    opacity: 0.8;
-}
